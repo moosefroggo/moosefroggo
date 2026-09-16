@@ -32,6 +32,6 @@ Case studies from shipped product work, plus interactive projects and design exp
 
 ## About me
 
-I work across product design and frontend development. I like making complicated tools easier to understand, then building prototypes to test how they feel and work.
+I work across product design and frontend development. I like making complicated tools easier to understand, then building prototypes to see what I missed.
 
 Based in Austin, Texas. Open to product design and design engineering roles.
