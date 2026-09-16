@@ -1,6 +1,8 @@
 # Mustafa
 
-I design products and build prototypes. I work on AI tools, data-heavy apps, and interactive websites. At Motive, I designed a remote vehicle immobilization feature that contributed **$8M in ARR**.
+I design products and build prototypes. I work on AI tools, data-heavy apps, and interactive websites.
+
+Previously designed platforms and products at Vantheon, NextWork, CBRE, Motive, and Educative.
 
 [Portfolio](https://mstf.work) · [LinkedIn](https://www.linkedin.com/in/mustafa-ali-akbar-a5195387/) · [Email](mailto:hello@mstf.work)
 
