@@ -1,45 +1,37 @@
 # Mustafa
 
-I’m a product designer and design engineer who turns complex systems into clear, high-trust products. I work across product strategy, interaction design, prototyping, and frontend implementation—especially for AI products, data-heavy workflows, and expressive interfaces.
-
-My recent work spans agentic trading, recruiting, developer tools, motion, and WebGL. Previously, I designed a remote vehicle immobilization experience at Motive that contributed **$8M in ARR**.
+I design products and build prototypes. I work on AI tools, data-heavy apps, and interactive websites. At Motive, I designed a remote vehicle immobilization feature that contributed **$8M in ARR**.
 
 [Portfolio](https://mstf.work) · [LinkedIn](https://www.linkedin.com/in/mustafa-ali-akbar-a5195387/) · [Email](mailto:hello@mstf.work)
 
-## Selected work
+## Selected projects
 
-### [Pathline](https://github.com/moosefroggo/pathline) — presence-first recruiting
+### [Pathline](https://github.com/moosefroggo/pathline)
 
-A recruiter-side product concept that replaces résumé volume with verified, behavioral, and live signal. I defined the product wedge, trust model, end-to-end flow, design system, and motion-rich React prototype.
+A recruiting prototype that helps teams learn more about candidates through verified work and live interactions. I worked on the product concept, hiring flow, visual design, and React prototype.
 
-**React · TypeScript · Framer Motion · Product strategy · Interaction design**  
-[Live prototype](https://nectar-social-prototype.vercel.app)
+[Try the prototype](https://nectar-social-prototype.vercel.app)
 
-### [Vantheon](https://github.com/moosefroggo/vantheon-architecture) — high-trust agentic trading
+### [Vantheon](https://github.com/moosefroggo/vantheon-architecture)
 
-Product and frontend architecture for an AI trading workspace. The system makes strategy lineage, evidence, paper testing, and every capital-impacting transition explicit and inspectable.
+A trading workspace prototype that shows where a strategy came from, what evidence supports it, and what happens as it moves from draft to paper testing or live trading. I worked on the product structure and frontend.
 
-**Product architecture · AI UX · React · State systems · Accessibility**  
-[Live prototype](https://vantheon-architecture.vercel.app)
+[Try the prototype](https://vantheon-architecture.vercel.app)
 
-### [Morph](https://github.com/moosefroggo/3d-gradients-generator) — interactive gradient studio
+### [Morph](https://github.com/moosefroggo/3d-gradients-generator)
 
-A browser-based 3D gradient generator using procedural GLSL noise, Three.js, physics, material presets, and real-time controls.
+A browser tool for making animated 3D gradients. It uses Three.js and GLSL shaders, with controls for color, shape, noise, and materials.
 
-**Three.js · GLSL · WebGL · Creative tooling · Motion**  
-[Live tool](https://moosefroggo.github.io/3d-gradients-generator/)
+[Try the tool](https://moosefroggo.github.io/3d-gradients-generator/)
 
-### [Portfolio](https://github.com/moosefroggo/paper) — shipped work and experiments
+### [Portfolio](https://github.com/moosefroggo/paper)
 
-Product case studies, interactive prototypes, and side projects spanning enterprise workflows, recruiting, generative themes, Git visualization, and 3D interfaces.
+Case studies from shipped product work, plus interactive projects and design experiments.
 
-[View portfolio](https://mstf.work)
+[View the portfolio](https://mstf.work)
 
-## What I bring
+## About me
 
-- Product framing: turning ambiguous, high-stakes systems into understandable user journeys and decisions
-- Interaction craft: prototyping flows, motion, states, and feedback until the product feels coherent
-- Design engineering: React, TypeScript, Three.js, WebGL/GLSL, GSAP, and Framer Motion
-- Systems thinking: design systems, accessibility, performance, state architecture, and trust boundaries
+I work across product design and frontend development. I like making complicated tools easier to understand, then building prototypes to test how they feel and work.
 
-Based in Austin, Texas. Open to product design and design engineering opportunities.
+Based in Austin, Texas. Open to product design and design engineering roles.
