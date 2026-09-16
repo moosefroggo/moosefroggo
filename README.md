@@ -29,9 +29,3 @@ A browser tool for making animated 3D gradients. It uses Three.js and GLSL shade
 Case studies from shipped product work, plus interactive projects and design experiments.
 
 [View the portfolio](https://mstf.work)
-
-## About me
-
-I work across product design and frontend development. I like making complicated tools easier to understand, then building prototypes to see what I missed.
-
-Based in Austin, Texas. Open to product design and design engineering roles.
